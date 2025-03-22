@@ -213,5 +213,3 @@ async function listAvailableModels() {
   }
 }
 
-// Uncomment to debug available models
-// listAvailableModels();
