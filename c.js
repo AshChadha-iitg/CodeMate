@@ -1,7 +1,7 @@
 // JavaScript to use the Gemini API with web interface
 
 // API key - directly in code (less secure, better to use environment variables in production)
-const API_KEY = 'AIzaSyByAMqDFfc7HR9iviGNqgY0NJvaGraOHlE';
+const API_KEY = 'YOUR_API_KEY';
 
 // Gemini API base URL with correct model name
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
